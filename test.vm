@@ -25,7 +25,7 @@
         <div class="fl coupon_btn_lh"><i>&nbsp;</i>使用红包</div>
         <div class="fr pos coupon_btn_lh">省 <em class="r_favorable">$!{crov.couponAmount}</em><span class="icon_right_btn"></span></div>
     </div>
-    <div class="pay_way_con pdb70">
+    <div class="pay_way_70">
         <ul>
             #if($!{payAuthVO.alipay})
                 <li class="clearfix">
